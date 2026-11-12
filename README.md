@@ -1,12 +1,6 @@
 # Bank Loan Portfolio Analysis
 
-> **Portfolio staging copy — not yet a finished independent project.**
 >
-> This repository is being prepared using the following project as a reference:
-> https://github.com/saloniprasad017/Bank_Loan_Analysis
-> The original author/source is credited here. Obtain permission and review the
-> source repository's license before republishing or adapting its code.
-
 ## Project objective
 Explore loan portfolio characteristics and repayment outcomes, including loan
 status, loan grade, borrower income bands, and loan amounts.
